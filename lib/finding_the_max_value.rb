@@ -7,7 +7,6 @@ def find_max_value(array)
       num == highest_num
     end 
     count++
-  end 
   num 
 end 
   
